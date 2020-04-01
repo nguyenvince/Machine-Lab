@@ -1,7 +1,7 @@
 Possible themes:
 1. Coronavirus
 2. Solar system
-3. Penguins
+3. An "opposite" clock (where its hands stay stationary while the clock itself moves)
 
 Inspiration
 ![Inspiration](https://www.thewellmadeclock.com/wp-content/uploads/2014/02/BLOG-homeschoolingthemiddleyears.blogspot.com.jpg)
