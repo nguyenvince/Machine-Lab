@@ -1,7 +1,7 @@
 # A Solar System Carousel
 ## Concept Description
 This hybrid automata of the solar system explores the alternative use of a stepper motor, as an analog input, to reimaginatively introduce physicality into a carousel machine. By turning the crank which is attached to the stepper motor via an extended shaft, one can physically control the speed at which some planets rotate through a timing-belt pulleys system. At the same time, analog signals from the rotating stepper motor is read by an Arduino which in turn controls other planets through a servo motor. The three-way interactive relationship among the user's physical input, the rotation of the planets mechanically transfered by the user's input, and the motion of the planets consequently triggered by the microcontroller is very much intertwined in this machine.<br><br>
-*3D Renders of the concept (Fusion 360)
+*3D Renders of the concept (Fusion 360)*
 ![3d](https://raw.githubusercontent.com/vtn238/machineLab/master/midterm/midterm-2%20v7-1.png)
 ![3d](https://raw.githubusercontent.com/vtn238/machineLab/master/midterm/midterm-2%20v7-2.png)
 ![3d](https://raw.githubusercontent.com/vtn238/machineLab/master/midterm/midterm-2%20v7.png)
