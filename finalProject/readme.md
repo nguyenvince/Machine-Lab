@@ -11,7 +11,7 @@ Inspiration
 Rough sketch
 ![Rough sketch](https://raw.githubusercontent.com/vtn238/machineLab/master/finalProject/IMG_20200401_114123.jpg)<br><br>
 
-[Updated Sunday April 5]
+[Updated April 5]
 ---------------
 
 Theme: a master time-keeping clock equipped with different contributing mechanisms from everyone, each portraying each person's unique hobby or perspective<br><br>
@@ -27,7 +27,7 @@ Some first estimations:
   * Acrylic cut-outs (cheap and easy to fabricate) for 2D shapes
   * 3D-printed components (if needed)
     
-[Updated Sunday April 7]
+[Updated April 7]
 ---------------
 Some other rough estimations:
 * Dimension: the entire project will likely occupy a box 300mm x 400mm x 150mm (W x H x D)
