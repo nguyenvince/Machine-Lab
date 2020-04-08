@@ -34,6 +34,7 @@ Some other rough estimations:
 * Material:
   * Cam for flower: acrylic cut-out
   * Flower, watering can, character: can either be acrylic cut-outs or 3D printed (ABS/PLA)
+  <br>Inspiration for 3D print: https://www.youtube.com/watch?v=kN3ZbkWD0RI
   * Linkages: thin copper/aluminium wires
 * Design in Fusion 360: attempt to sketch 2D version first
 * Joints:
