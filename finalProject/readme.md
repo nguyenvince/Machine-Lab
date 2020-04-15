@@ -40,5 +40,15 @@ Some other rough estimations:
 * Design in Fusion 360: attempt to sketch 2D version first
 * Joints:
   * Rotating joints: If acrylics cut-outs: use nuts and bolts, If 3D printed: print out hinges as well
-  * Permanent joints (character and ground/servo and supporting panels...): glue or screw
-  
+  * Permanent joints (character and ground/servo and supporting panels...): glue or screw  
+
+[Updated April 15]
+---------------
+I started creating 3D models off Fusion 360 for 3D printed parts. All sketches were drawn using parameters so that I can effectively and quickly prototype the dimensions of the components.<br>Below is the Scoth Yoke mechanism to drive the up-and-down motion of the flower:<br>
+![scotch yoke](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(12).png)
+![scotch yoke](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(13).png)
+![scotch yoke](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(14).png)
+<br>
+I also looked in to hinges design that can be used for the rotating joints of the character. One such hinge can be seen below:<br>
+![scotch yoke](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(15).png)
+*The hinge has two protruding hemispheres that fit in the two holes when being pushed into the other part*
