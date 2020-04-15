@@ -44,11 +44,11 @@ Some other rough estimations:
 
 [Updated April 15]
 ---------------
-I started creating 3D models off Fusion 360 for 3D printed parts. All sketches were drawn using parameters so that I can effectively and quickly prototype the dimensions of the components.<br>Below is the Scoth Yoke mechanism to drive the up-and-down motion of the flower:<br>
+- I started creating 3D models off Fusion 360 for 3D printed parts. All sketches were drawn using parameters so that I can effectively and quickly prototype the dimensions of the components. Below is the Scoth Yoke mechanism to drive the up-and-down motion of the flower:<br>
 ![scotch yoke](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(12).png)
 ![scotch yoke](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(13).png)
 ![scotch yoke](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(14).png)
 <br><br>
-I also looked in to hinges design that can be used for the rotating joints of the character. One such hinge can be seen below:<br>
+- I also looked in to hinges design that can be used for the rotating joints of the character. One such hinge can be seen below:
 ![scotch yoke](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(15).png)<br>
 *The hinge has two protruding hemispheres that fit in the two holes when being pushed into the other part*
