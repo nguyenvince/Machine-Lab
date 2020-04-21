@@ -51,4 +51,9 @@ Some other rough estimations:
 <br><br>
 - I also looked in to hinges design that can be used for the rotating joints of the character. One such hinge can be seen below:
 ![scotch yoke](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(15).png)<br>
-*The hinge has two protruding hemispheres that fit in the two holes when being pushed into the other part*
+*The hinge has two protruding hemispheres that fit in the two holes when being pushed into the other part*<br>
+
+[Updated April 21]
+-----------------
+I got the hinge printed out using two different methods: normal 3D printing and stereolithography poly jet. The later and its motion are definitely smoother. However, both of them work and offer a proof of concept that I can incorporate such hinge mechanism to the design of the person.
+![hinge](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/IMG_20200421_173802.jpg)
