@@ -1,16 +1,3 @@
-First Brainstorm
----------------
-Possible themes:
-1. Coronavirus
-2. Solar system
-3. An "opposite" clock (where its hands stay stationary while the clock itself moves)
-
-Inspiration
-![Inspiration](https://www.thewellmadeclock.com/wp-content/uploads/2014/02/BLOG-homeschoolingthemiddleyears.blogspot.com.jpg)
-
-Rough sketch
-![Rough sketch](https://raw.githubusercontent.com/vtn238/machineLab/master/finalProject/IMG_20200401_114123.jpg)<br><br>
-
 [Updated April 5]
 ---------------
 
@@ -33,14 +20,14 @@ Some other rough estimations:
 * Dimension: the entire project will likely occupy a box 300mm x 400mm x 150mm (W x H x D)
 * Material:
   * Cam for flower: acrylic cut-out
-  * Flower, watering can, character: can either be acrylic cut-outs or 3D printed (ABS/PLA)
+  * Flower, watering can, person: can either be acrylic cut-outs or 3D printed (ABS/PLA)
   <br>Inspiration for 3D print: https://www.youtube.com/watch?v=kN3ZbkWD0RI
   <br>3D printed hinges: https://www.youtube.com/watch?v=7JhjhgjchfM
   * Linkages: thin copper/aluminium wires
 * Design in Fusion 360: attempt to sketch 2D version first
 * Joints:
   * Rotating joints: If acrylics cut-outs: use nuts and bolts, If 3D printed: print out hinges as well
-  * Permanent joints (character and ground/servo and supporting panels...): glue or screw  
+  * Permanent joints (person and ground/servo and supporting panels...): glue or screw  
 
 [Updated April 15]
 ---------------
@@ -49,11 +36,30 @@ Some other rough estimations:
 ![scotch yoke](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(13).png)
 ![scotch yoke](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(14).png)
 <br><br>
-- I also looked in to hinges design that can be used for the rotating joints of the character. One such hinge can be seen below:
+- I also looked in to hinges design that can be used for the rotating joints of the person. One such hinge can be seen below:
 ![scotch yoke](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(15).png)<br>
 *The hinge has two protruding hemispheres that fit in the two holes when being pushed into the other part*<br>
 
 [Updated April 21]
 -----------------
 I got the hinge printed out using two different methods: normal 3D printing and stereolithography poly jet. The later and its motion are definitely smoother. However, both of them work and offer a proof of concept that I can incorporate such hinge mechanism to the design of the person.
-![hinge](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/IMG_20200421_173802.jpg)
+![hinge](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/IMG_20200421_173802.jpg)<br>
+
+[Updated April 25]
+-----------------
+I started working on the person part, which comprises of different components held together by rotating joints:
+![person](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(17).png)<br>
+- The joint between the torso and the pair of legs:
+![person](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(18).png)<br>
+- The joint between the torso and the arms (this joint is enclosed, it cannot be taken apart like the joint with the legs, which prevents torsion and simplifies the design): 
+![person](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(19).png)<br>
+- The cross-section of the arm axle:
+![person](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(20).png)<br>
+- The legs:
+![person](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(21).png)<br>
+- The torso (with its protruding hemispheres that snap into the legs):
+![person](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(22).png)<br>
+- The arms (with its axle that goes through the hole in the torso):
+![person](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(24).png)<br>
+- The hole that allows the arm axle to go through:
+![person](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(23).png)<br>
