@@ -32,9 +32,9 @@ Some other rough estimations:
 [Updated April 15]
 ---------------
 - I started creating 3D models off Fusion 360 for 3D printed parts. All sketches were drawn using parameters so that I can effectively and quickly prototype the dimensions of the components. Below is the Scoth Yoke mechanism to drive the up-and-down motion of the flower:<br>
-![scotch yoke](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(12).png)
-![scotch yoke](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(13).png)
-![scotch yoke](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(14).png)
+![scotch yoke](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(12).png)<br>
+![scotch yoke](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(13).png)<br>
+![scotch yoke](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(14).png)<br>
 <br><br>
 - I also looked in to hinges design that can be used for the rotating joints of the person. One such hinge can be seen below:
 ![scotch yoke](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(15).png)<br>
@@ -48,18 +48,18 @@ I got the hinge printed out using two different methods: normal 3D printing and 
 [Updated April 25]
 -----------------
 I started working on the person part, which comprises of different components held together by rotating joints:
-![person](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(17).png)<br>
+![person](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(17).png)<br><br>
 - The joint between the torso and the pair of legs:
-![person](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(18).png)<br>
+![person](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(18).png)<br><br>
 - The joint between the torso and the arms (this joint is enclosed, it cannot be taken apart like the joint with the legs, which prevents torsion and simplifies the design): 
-![person](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(19).png)<br>
+![person](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(19).png)<br><br>
 - The cross-section of the arm axle:
-![person](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(20).png)<br>
+![person](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(20).png)<br><br>
 - The legs:
-![person](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(21).png)<br>
+![person](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(21).png)<br><br>
 - The torso (with its protruding hemispheres that snap into the legs):
-![person](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(22).png)<br>
+![person](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(22).png)<br><br>
 - The arms (with its axle that goes through the hole in the torso):
-![person](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(24).png)<br>
+![person](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(24).png)<br><br>
 - The hole that allows the arm axle to go through:
-![person](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(23).png)<br>
+![person](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(23).png)<br><br>
