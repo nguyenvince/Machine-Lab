@@ -63,3 +63,10 @@ I started working on the person part, which comprises of different components he
 ![person](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(24).png)<br><br>
 - The hole that allows the arm axle to go through:
 ![person](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(23).png)<br><br>
+
+[Updated May 3]
+-----------------
+As I did not find any watering can 3D model that completely hollow (so that I can potentially put an LED right inside the spout and light it up whenever the "water" comes out), I modeled my own watering can in Fusion 360.
+![watering can](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(36).png)<br><br>
+Below is the entire scene so far:
+![scene](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(37).png)<br><br>
