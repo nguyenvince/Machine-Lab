@@ -1,10 +1,18 @@
-[Updated April 5]
+Project Overview
+---------------
+This project is a modern automaton that makes use of various mechanisms whose motions are driven by an Arduino and servo motors. The overarching theme of Machine Lab's final collaborative project is a time-keeping clock that is surrounded by each individual student's automaton that will chime in every hour or so. My part of the clock is me watering a flower, and hopefully, watching the flower blossom over time.<br>
+![watering flower automaton]()<br>
+
+Below is the documentation of the project
+---------------
+
+[First update: April 5. Second update: May 8]
 ---------------
 
 Theme: a master time-keeping clock equipped with different contributing mechanisms from everyone, each portraying each person's unique hobby or perspective<br><br>
 My mechanism: watering plants  
-![rough sketch](https://raw.githubusercontent.com/vtn238/machineLab/master/finalProject/IMG_20200405_175443.jpg)  
-Some first estimations:  
+![rough sketch](https://raw.githubusercontent.com/vtn238/machineLab/master/finalProject/IMG_20200405_175443.jpg)<br>  
+Some first estimations (April 5):  
 * 2 servos + 1 DC/stepper motor
 * 3 different levels of activities:
   * Level 1: watering with only arms moving
@@ -13,6 +21,19 @@ Some first estimations:
 * Material:
   * Acrylic cut-outs (cheap and easy to fabricate) for 2D shapes
   * 3D-printed components (if needed)
+<br>
+Final estimations before assemblage (May 8):
+* An Arduino board
+* An LED to be attached to the opening of the water can's spout
+* 3 servos:
+  * 1 for the Scoth Yoke mechanism for the flower moving up and down
+  * 1 for rotating the character's upper body up and down
+  * 1 for rotating the character's arm up and down
+* Automaton's material:
+  * Acrylic cut-outs for the main frame of the automaton and the Scoth Yoke's servo support panel
+  * The rest is 3D printed using stereolithography poly jet technique ensure a smooth finish and high accuracy for the rotating joints. Water-dissolvable support will also be utilized to support the overhang (for example the cylindrical spout of the water can)<br>
+  * Some metal wires for linkages between the 2 servos and parts of the character's body
+  * Zip ties to secure the main frame to the overall support structure (TBD)
     
 [Updated April 7]
 ---------------
