@@ -21,6 +21,7 @@ Some first estimations (April 5):
 * Material:
   * Acrylic cut-outs (cheap and easy to fabricate) for 2D shapes
   * 3D-printed components (if needed)<br>
+  
 Final estimations before assemblage (May 8):
 * An Arduino board
 * An LED to be attached to the opening of the water can's spout
@@ -34,13 +35,13 @@ Final estimations before assemblage (May 8):
   * Some metal wires for linkages between the 2 servos and parts of the character's body
   * Zip ties to secure the main frame to the overall support structure (TBD)
     
-[Updated April 7]
+[First update: April 7. Second update: May 8]
 ---------------
 Some other rough estimations:
 * Dimension: the entire project will likely occupy a box 300mm x 400mm x 150mm (W x H x D)
 * Material:
-  * Cam for flower: acrylic cut-out
-  * Flower, watering can, person: can either be acrylic cut-outs or 3D printed (ABS/PLA)
+  * Cam for flower: ~~acrylic cut-out (April 7)~~ 3D printed (May 8)
+  * Flower, watering can, person: ~~can either be acrylic cut-outs or~~3D printed (ABS/PLA)
   <br>Inspiration for 3D print: https://www.youtube.com/watch?v=kN3ZbkWD0RI
   <br>3D printed hinges: https://www.youtube.com/watch?v=7JhjhgjchfM
   * Linkages: thin copper/aluminium wires
@@ -86,7 +87,14 @@ I started working on the person part, which comprises of different components he
 
 [Updated May 3]
 -----------------
-As I did not find any watering can 3D model that completely hollow (so that I can potentially put an LED right inside the spout and light it up whenever the "water" comes out), I modeled my own watering can in Fusion 360.
+As I did not find any water can 3D model that completely hollow (so that I can potentially put an LED right inside the spout and light it up whenever the "water" comes out), I modeled my own watering can in Fusion 360.
 ![watering can](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(36).png)<br><br>
 Below is the entire scene so far:
 ![scene](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(37).png)<br><br>
+
+[Updated May 8]
+-----------------
+As the design of the support structure is not yet determined, I put some 8mm holes near the edge of the main frame which can be used for zip tie / screws later on. As for the 3 acrylic panels of the main frame themselves, acrylic glue will be used to ensure a strong and clean bond.<br>
+![8mm holes](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(48).png)<br>
+As I started to think about where to connect the linkages from the servos to the character, I hollowed out a hook on the back of the character so that a thin wire can be hooked here:<br>
+![back's hook](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(49).png)<br><br>
