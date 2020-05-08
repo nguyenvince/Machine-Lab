@@ -20,8 +20,7 @@ Some first estimations (April 5):
   * Level 3: flower grows from the ground
 * Material:
   * Acrylic cut-outs (cheap and easy to fabricate) for 2D shapes
-  * 3D-printed components (if needed)
-<br>
+  * 3D-printed components (if needed)<br>
 Final estimations before assemblage (May 8):
 * An Arduino board
 * An LED to be attached to the opening of the water can's spout
