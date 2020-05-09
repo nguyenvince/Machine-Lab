@@ -26,7 +26,7 @@ Final estimations before assemblage (May 8):
 * An Arduino board
 * An LED to be attached to the opening of the water can's spout
 * 3 servos:
-  * 1 for the Scoth Yoke mechanism for the flower moving up and down
+  * 1 for the Scoth Yoke mechanism for the flower moving up and down. At first, I thought I could use a DC / stepper motor here for a continuous motion; however, both of them cannot "remember" their previous position (and thus the position of the blossoming flower). Therefore, to better control the position of the flower, I opted for the servo motor here, its 180-degree rotation suffices one up-down motion.
   * 1 for rotating the character's upper body up and down
   * 1 for rotating the character's arm up and down
 * Automaton's material:
