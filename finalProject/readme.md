@@ -112,5 +112,5 @@ There is a small opening on the main frame so that the linkage can go through:<b
 The 3 servos seen from the back of the automaton. They are positioned in such a way that their back side faced away from the front of the automata, allowing their wires to go straight out of the automaton's back to the Arduino.<br>
 ![automaton from the back](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(52).png)<br><br>
 Talking about the Arduino, it will be placed behind the automaton, allowing the motions to be seen unobstructively as demontrasted in the drawing below:<br>
-![arduino placement drawing](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(52)-1.png)<br><br>
+![arduino placement drawing](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(58).png)<br><br>
 
