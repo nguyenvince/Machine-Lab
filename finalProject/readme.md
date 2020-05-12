@@ -1,12 +1,12 @@
 Project Overview
 ---------------
 This project is a modern automaton that makes use of various mechanisms whose motions are driven by an Arduino and servo motors. The overarching theme of Machine Lab's final collaborative project is a time-keeping clock that is surrounded by each individual student's automaton that will chime in every hour or so. My part of the clock is me watering a flower, and hopefully, watching the flower blossom over time.<br>
-![watering flower automaton]()<br>
+![watering flower automaton](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(68).png)<br>
 
 Below is the documentation of the project
 ---------------
 
-[First update: April 5. Second update: May 8]
+[First update: April 5. Second update: May 11]
 ---------------
 
 Theme: a master time-keeping clock equipped with different contributing mechanisms from everyone, each portraying each person's unique hobby or perspective<br><br>
@@ -22,7 +22,7 @@ Some first estimations (April 5):
   * Acrylic cut-outs (cheap and easy to fabricate) for 2D shapes
   * 3D-printed components (if needed)<br>
   
-Final estimations before assemblage (May 8):
+Final estimations before assemblage (May 11):
 * An Arduino board
 * An LED to be attached to the opening of the water can's spout
 * 3 servos:
@@ -30,17 +30,18 @@ Final estimations before assemblage (May 8):
   * 1 for rotating the character's upper body up and down
   * 1 for rotating the character's arm up and down
 * Automaton's material:
-  * Acrylic cut-outs for the main frame of the automaton and the Scoth Yoke's servo support panel
+  * Acrylic cut-outs for the main frame of the automaton and the Scoth Yoke's servo support panel as well as the servo support panels for the linkages
   * The rest is 3D printed using stereolithography poly jet technique ensure a smooth finish and high accuracy for the rotating joints. Water-dissolvable support will also be utilized to support the overhang (for example the cylindrical spout of the water can)<br>
   * Some metal wires for linkages between the 2 servos and parts of the character's body
-  * Zip ties to secure the main frame to the overall support structure (TBD)
+  * Zip ties / Nuts and bolts to secure the main frame to the overall support structure (TBD)
     
-[First update: April 7. Second update: May 8]
+[First update: April 7. Second update: May 8. Third update: May 11]
 ---------------
 Some other rough estimations:
 * Dimension: the entire project will likely occupy a box 300mm x 400mm x 150mm (W x H x D)
 * Material:
-  * Cam for flower: ~~acrylic cut-out (April 7)~~ 3D printed (May 8)
+  * Cam for flower: ~~acrylic cut-out (April 7)~~ 3D printed (May 8) || acrylic cut-out (May 11) (after receiving feedback from Michael, acrylic cut-out might decrease the amount of friction between the moving parts of the mechanism: the cam and the cam follower, which would help to prevent the flower stem from moving sideway too much. While the cam has a small circular protrusion to hold the cam follower in place, which together is easier to fabricate in-place using 3D-printing machines, it can be laser cut and attach to the cam using some acrylic glue. At the same time, sanding paper can be used for the 3D-printed parts to smooth out the surface. For now, all speculations considered, both of the options seem valid and can be tested out once fabrication resumes.<br> 
+  ![scotch yoke](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(14).png)<br><br>
   * Flower, watering can, person: ~~can either be acrylic cut-outs or~~3D printed (ABS/PLA)
   <br>Inspiration for 3D print: https://www.youtube.com/watch?v=kN3ZbkWD0RI
   <br>3D printed hinges: https://www.youtube.com/watch?v=7JhjhgjchfM
@@ -55,8 +56,6 @@ Some other rough estimations:
 - I started creating 3D models off Fusion 360 for 3D printed parts. All sketches were drawn using parameters so that I can effectively and quickly prototype the dimensions of the components. Below is the Scoth Yoke mechanism to drive the up-and-down motion of the flower:<br>
 ![scotch yoke](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(12).png)<br><br>
 ![scotch yoke](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(13).png)<br><br>
-![scotch yoke](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(14).png)<br><br>
-<br><br>
 - I also looked in to hinges design that can be used for the rotating joints of the person. One such hinge can be seen below:
 ![scotch yoke](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(15).png)<br>
 *The hinge has two protruding hemispheres that fit in the two holes when being pushed into the other part*<br>
@@ -114,3 +113,23 @@ The 3 servos seen from the back of the automaton. They are positioned in such a 
 Talking about the Arduino, it will be placed behind the automaton, allowing the motions to be seen unobstructively as demontrasted in the drawing below:<br>
 ![arduino placement drawing](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(58).png)<br><br>
 
+[Updated May 11]
+-----------------
+After receiving feedback from Michael, I added some supports beneath the servo support panels so that there will be more surface areas for the acrylic glue.<br>
+![servo suport panel](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(61).png)<br><br>
+On top of that, I remodeled some of the support panels to tree-shaped and grass-shaped, which was another brilliant idea of Michael to make the scene more lively and garden-y. Finally, I made the bottom part (including the flower mechanism) a bit shorter to better highlight the garden above.<br>
+![scene](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(69).png)<br><br>
+![scene](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(70).png)<br><br>
+Below is the 3D model of a simple flower (not included in the Fusion file because of its complexity slowing down the software) that will be attached on top of the flower stem:<br>
+![flower](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(70).png)<br><br>
+
+[Estimations Before Final Assemblage]
+-----------------
+The entire project can be secured on a piece of scrap wood for stability. The main frame's bottom is punctured with 4 8mm holes which can be used to drive a couple of bolts and nuts through.<br>
+![wood panel](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(71).png)<br><br>
+Below is a rendition of where the Arduino will be placed on the wooden board:<br>
+![arduino placement](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(72).png)<br><br>
+Below are some of the remaining concerns until I fabricate the pieces:
+* Will the cam and cam follow have too much friction that can cause sideway movement? If that's the case, maybe I can add some small panels to restrict the sideway movement. 
+* Will the servos produce enough torque to drive the human character through the linkages? If not, maybe I can use bigger servos or reposition them so that the arm distance is more optimized? That said, it is unlikely that such scenario will happen as all the body parts are be hollow and pretty light.
+* As I omit one vertical acrylic panel out of the box-shaped main frame for the sake of simplicity and openness, will the bond between the upper and vertical panel be strong enough to withstand the weights of the items above it? That said, most of the parts are put pretty close to the vertical panel (plus, there is a cut-out where the flower blossoms through), which might be able to decrease the torque they induced on the bond.<br>![acrylic panels](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(63).png)<br><br>
