@@ -133,8 +133,9 @@ Below is a rendition of where the Arduino will be placed on the wooden board:<br
 Below are some of the remaining concerns until I fabricate the pieces:
 * Will the cam and cam follow have too much friction that can cause sideway movement? If that's the case, maybe I can add some small panels to restrict the sideway movement. 
 * Will the servos produce enough torque to drive the human character through the linkages? If not, maybe I can use bigger servos or reposition them so that the arm distance is more optimized? That said, it is unlikely that such scenario will happen as all the body parts are be hollow and pretty light.
-* As I omit one vertical acrylic panel out of the box-shaped main frame for the sake of simplicity and openness, will the bond between the upper and vertical panel be strong enough to withstand the weights of the items above it? That said, most of the parts are put pretty close to the vertical panel (plus, there is a cut-out where the flower blossoms through), which somewhat decreases the torque they induced on the bond.<br>![acrylic panels](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(63).png)<br><br>
+* As I omit one vertical acrylic panel out of the box-shaped main frame for the sake of simplicity and openness, will the bond between the upper and vertical panel be strong enough to withstand the weights of the items above it? That said, most of the parts are put pretty close to the vertical panel (plus, there is a cut-out where the flower blossoms through), which somewhat decreases the torque they induced on the bond.<br>
+![acrylic panels](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(63).png)<br><br>
 --> [Update May 12]
 I decided to re-design the vertical support panel altogether. Instead of one big support, there will be 4 smaller pillars on all 4 corners, which will distribute weights more evenly while retaining the clean and simple aesthetics.<br>
-(https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(96).png)<br><br>
-(https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(97).png)<br><br>
+![pillar redesign](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(96).png)<br><br>
+![pillar redesign](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(97).png)<br><br>
