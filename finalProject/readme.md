@@ -1,7 +1,8 @@
 Project Overview
 ---------------
 This project is a modern automaton that makes use of various mechanisms whose motions are driven by an Arduino and servo motors. The overarching theme of Machine Lab's final collaborative project is a time-keeping clock that is surrounded by each individual student's automaton that will chime in every hour or so. My part of the clock is me watering a flower, and hopefully, watching the flower blossom over time.<br>
-![watering flower automaton](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(68).png)<br>
+![watering flower automaton](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(98).png)<br><br>
+![watering flower automaton](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(99).png)<br><br>
 
 Below is the documentation of the project
 ---------------
@@ -123,7 +124,7 @@ On top of that, I remodeled some of the support panels to tree-shaped and grass-
 Below is the 3D model of a simple flower (not included in the Fusion file because of its complexity slowing down the software) that will be attached on top of the flower stem:<br>
 ![flower](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(70).png)<br><br>
 
-[Estimations Before Final Assemblage]
+[Some Discussions Before Final Assemblage - May 11]
 -----------------
 The entire project can be secured on a piece of scrap wood for stability. The main frame's bottom is punctured with 4 8mm holes which can be used to drive a couple of bolts and nuts through.<br>
 ![wood panel](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(71).png)<br><br>
@@ -132,4 +133,8 @@ Below is a rendition of where the Arduino will be placed on the wooden board:<br
 Below are some of the remaining concerns until I fabricate the pieces:
 * Will the cam and cam follow have too much friction that can cause sideway movement? If that's the case, maybe I can add some small panels to restrict the sideway movement. 
 * Will the servos produce enough torque to drive the human character through the linkages? If not, maybe I can use bigger servos or reposition them so that the arm distance is more optimized? That said, it is unlikely that such scenario will happen as all the body parts are be hollow and pretty light.
-* As I omit one vertical acrylic panel out of the box-shaped main frame for the sake of simplicity and openness, will the bond between the upper and vertical panel be strong enough to withstand the weights of the items above it? That said, most of the parts are put pretty close to the vertical panel (plus, there is a cut-out where the flower blossoms through), which might be able to decrease the torque they induced on the bond.<br>![acrylic panels](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(63).png)<br><br>
+* As I omit one vertical acrylic panel out of the box-shaped main frame for the sake of simplicity and openness, will the bond between the upper and vertical panel be strong enough to withstand the weights of the items above it? That said, most of the parts are put pretty close to the vertical panel (plus, there is a cut-out where the flower blossoms through), which somewhat decreases the torque they induced on the bond.<br>![acrylic panels](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(63).png)<br><br>
+--> [Update May 12]
+I decided to re-design the vertical support panel altogether. Instead of one big support, there will be 4 smaller pillars on all 4 corners, which will distribute weights more evenly while retaining the clean and simple aesthetics.<br>
+(https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(96).png)<br><br>
+(https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(97).png)<br><br>
