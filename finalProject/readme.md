@@ -1,8 +1,8 @@
 Project Overview
 ---------------
 This project is a modern automaton that makes use of various mechanisms whose motions are driven by an Arduino and servo motors. The overarching theme of Machine Lab's final collaborative project is a time-keeping clock that is surrounded by each individual student's automaton that will chime in every hour or so. My part of the clock is me watering a flower, and hopefully, watching the flower blossom over time.<br>
-![watering flower automaton](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(98).png)<br><br>
-![watering flower automaton](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(99).png)<br><br>
+![watering flower automaton](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(98)-1.png)<br><br>
+![watering flower automaton](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(99)-1.png)<br><br>
 
 Below is the documentation of the project
 ---------------
@@ -137,5 +137,5 @@ Below are some of the remaining concerns until I fabricate the pieces:
 ![acrylic panels](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(63).png)<br><br>
 --> [Update May 12]
 I decided to re-design the vertical support panel altogether. Instead of one big support, there will be 4 smaller pillars on all 4 corners, which will distribute weights more evenly while retaining the clean and simple aesthetics.<br>
-![pillar redesign](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(96).png)<br><br>
-![pillar redesign](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(97).png)<br><br>
+![pillar redesign](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(96)-1.png)<br><br>
+![pillar redesign](https://raw.githubusercontent.com/nguyenvince/machineLab/master/finalProject/Screenshot%20(97)-1.png)<br><br>
